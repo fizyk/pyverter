@@ -3,6 +3,16 @@ CHANGELOG
 
 .. towncrier release notes start
 
+pyverter 0.1.3 (2026-10-03)
+===========================
+
+Miscellaneous
+-------------
+
+- Migrate to maintained actionlint fork and update actions with new zizmor. (`#371 <https://github.com/fizyk/pyverter/issues/371>`_)
+- Adjust shared-automerge permissions (`#381 <https://github.com/fizyk/pyverter/issues/381>`_)
+
+
 pyverter 0.1.2 (2026-09-03)
 ===========================
 
