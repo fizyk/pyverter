@@ -40,7 +40,7 @@ pyverter = "pyverter.cli:pyverter"
 
 [dependency-groups]
 dev = [
-    "click==8.5.0",
+    "click==8.5.1",
     "mypy==2.4.1",
     "pdbpp==0.12.1",
     "pillow==13.0.0",
